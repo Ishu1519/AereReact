@@ -51,6 +51,15 @@ x86_64-w64-mingw32-gcc AereReact.c -o AereReact.exe \
 Why not Lively Wallpaper?
 Lively is a full UWP app with a browser engine underneath — heavy RAM usage and regular CPU spikes. AereReact does one thing and does it with the least overhead physically possible on Windows.
 ---
+## Desktop Workflow Compatible
+
+AereReact is designed to work *with* your workflow, not against it.
+
+- **Win+D** and **3-finger swipe down** still work normally — use them to instantly hide/show all your open apps
+- When you show desktop, AereReact is your background — the animation is always running underneath
+- When you restore your apps, AereReact continues silently behind them
+
+This means AereReact effectively gives you an animated desktop that you can reveal instantly at any time — just like a live wallpaper should work.
 Author
 Ishu1519 — B.Tech Robotics & Automation student, builder of things that shouldn't exist.
 ---
