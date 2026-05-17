@@ -21,9 +21,13 @@ Single `.exe` — no installer, no dependencies, no runtime
 System Requirements
 	
 OS	                Windows 11 (tested on 25H2, build 26200)
+
 GPU	                Any with OpenGL support (Intel UHD / NVIDIA / AMD)
+
 RAM	                Negligible
+
 Dependencies	      None
+
 ---
 How to Run
 Download `AereReact.exe` from Releases
