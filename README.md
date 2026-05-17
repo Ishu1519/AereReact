@@ -18,16 +18,14 @@ Auto-registers to Windows startup
 Single `.exe` — no installer, no dependencies, no runtime
 155KB total size
 ---
-System Requirements
-	
-OS	                Windows 11 (tested on 25H2, build 26200)
+## System Requirements
 
-GPU	                Any with OpenGL support (Intel UHD / NVIDIA / AMD)
-
-RAM	                Negligible
-
-Dependencies	      None
-
+| Component | Spec |
+|-----------|------|
+| OS | Windows 11 (tested on 25H2, build 26200) |
+| GPU | Any with OpenGL support (Intel UHD / NVIDIA / AMD) |
+| RAM | Negligible |
+| Dependencies | None |
 ---
 How to Run
 Download `AereReact.exe` from Releases
