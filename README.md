@@ -11,6 +11,12 @@ Built as a direct response to how bloated existing solutions like Lively Wallpap
 ---
 
 
+https://github.com/user-attachments/assets/73cd584d-b6da-4764-a71b-3667c587f84b
+
+
+
+
+
 
 Features
 Spike-ring animation on pure black background
