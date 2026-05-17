@@ -9,6 +9,9 @@ AereReact is a lightweight live wallpaper engine built from scratch in pure C us
 It renders an animated spike-ring directly on your desktop — and reacts to your mouse and keyboard in real time.
 Built as a direct response to how bloated existing solutions like Lively Wallpaper are. This runs at ~24 FPS, uses under 1% CPU at idle, and starts silently with Windows.
 ---
+
+
+
 Features
 Spike-ring animation on pure black background
 Mouse reactive — ring distorts toward cursor position
